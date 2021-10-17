@@ -1,1 +1,1 @@
-# 30 days of Google Cloud 
+# 30 days of Google Cloud
